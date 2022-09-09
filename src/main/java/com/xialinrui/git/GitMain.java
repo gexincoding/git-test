@@ -14,5 +14,8 @@ public class GitMain {
         for (int i = 0;i<5; i++){
             System.out.println("我爱王可欣");
         }
+ for (int i = 0;i<5; i++){
+            System.out.println("我爱王可欣");
+        }
     }
 }
