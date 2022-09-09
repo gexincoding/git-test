@@ -11,10 +11,10 @@ public class GitMain {
         System.out.println("Hello Git3!");
         System.out.println("Hello Git3!");
         System.out.println("Hello Git3!");
-        for (int i = 0;i<5; i++){
+        for (int i = 0; i < 5; i++) {
             System.out.println("我爱王可欣");
         }
- for (int i = 0;i<5; i++){
+        for (int i = 0; i < 5; i++) {
             System.out.println("我爱王可欣");
         }
     }
